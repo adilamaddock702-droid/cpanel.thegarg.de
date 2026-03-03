@@ -1,1 +1,1 @@
-# cyberglot.me
+# cpanel.thegarg.de
